@@ -9,7 +9,7 @@ Monstera Login Menu
 
 This is a Login and Register Menu I put together in Unity after roaming around DeviantArt, and running into the concept art down below by [Felipe Viana](https://dribbble.com/felpviana).
 
-I set everything up completely, with working fields, forgot password queries, and even a unique username feature. This all works by using Google's currently free Firebase API, and I took a tutorial and initial codeset for this Login Screen from [XZippyZachX](https://github.com/xzippyzachx/UnityFirebaseAuthTutorial).
+I set everything up completely, with working fields, forgot password queries, and even a unique username feature. This all works by using Google's currently free Firebase API, and I took a tutorial and initial codeset for this Login Screen from [XZippyZachX](https://github.com/xzippyzachx).
 
 
 ## Installation
